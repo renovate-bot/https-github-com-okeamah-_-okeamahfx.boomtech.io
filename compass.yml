@@ -1,0 +1,16 @@
+name: okeamahfx.boomtech.io
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/c8898264-f822-48e5-bcda-15e7c39c68a8
+description: okeamahfx.boomtech.io is a repository focused on developing and deploying financial technologies within the BoomTech ecosystem. It includes tools for smart contract automation, decentralized finance (DeFi) solutions, and algorithmic trading strategies to ensure secure and scalable trading experiences.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/okeamahfx.boomtech.io
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
